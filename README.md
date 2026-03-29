@@ -41,7 +41,8 @@ Example components may include:
 Skills Demonstrated
 
 This project demonstrates:
-	•	object-oriented design
+	
+	•	object-oriented design 
 	•	class decomposition
 	•	state management
 	•	Java-based problem solving
